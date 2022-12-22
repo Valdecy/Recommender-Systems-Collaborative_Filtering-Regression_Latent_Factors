@@ -11,3 +11,6 @@ Collaborative Filtering: This approach builds a model from past behaviors, compa
 * iterations = The total number of iterations. The default value is 1000.
 
 * alpha = The learning rate. The default value is 0.01.
+
+# Recommender System Library
+Try [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library
